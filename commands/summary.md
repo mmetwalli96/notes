@@ -1,6 +1,4 @@
-# SCP
-
-commands ```scp``` is used to transfer files and folders between two computers using **SSH**.
+# Command Summary Table
 
 |**command**|**description**|**example**|
 |-----------|---------------|-----------|
